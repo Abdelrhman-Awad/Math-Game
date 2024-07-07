@@ -1,2 +1,2 @@
 "# Math-Game"
-"# Simple Math Game Using C++"
+"Simple Math Game Using C++"
